@@ -19,24 +19,24 @@ A challenge was applying formulas based on other sheets however navigating to th
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1)Theater outcomes are more successful in May then any other month suggesting that seasonality is a factor. 
+  - Theater outcomes are more successful in May then any other month suggesting that seasonality is a factor. 
 
-2) Similar outcomes failed and less prone to success towards Q4 but picks up in Q1 and Q2. 
+  - Similar outcomes failed and less prone to success towards Q4 but picks up in Q1 and Q2. 
 
 - What can you conclude about the Outcomes based on Goals?
 
-1) There were no failed outcomes with goals 500 and greater. Many successful campaigns under 15k and few successful outcomes range in the 35k to 39999 goal. 
+  - There were no failed outcomes with goals 500 and greater. Many successful campaigns under 15k and few successful outcomes range in the 35k to 39999 goal. 
 
-2) Overall successful outcomes were greater than failed ones with 66% compared to 34%. 
+  - Overall successful outcomes were greater than failed ones with 66% compared to 34%. 
 
 - What are some limitations of this dataset?
 
-1) Limitations of this dataset only dates back to 2009 where a larger sample size would show more significance. 
+  - Limitations of this dataset only dates back to 2009 where a larger sample size would show more significance. 
 
-2) We don't have the cast data since famous actors can influence funding decisions. 
+  - We don't have the cast data since famous actors can influence funding decisions. 
 
 - What are some other possible tables and/or graphs that we could create?
 
-1) We can create goals based on locations to see if geography had an influence. 
+  - We can create goals based on locations to see if geography had an influence. 
 
-2) We can create goals based on numbers of backers to see if certain campaigns were more popular among them. 
+  - We can create goals based on numbers of backers to see if certain campaigns were more popular among them. 
