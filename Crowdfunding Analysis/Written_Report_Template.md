@@ -14,7 +14,7 @@ Failed outcomes were present in goals under 9999 but goals greater than 9999 saw
 ### Challenges and Difficulties Encountered
 A challenge was applying formulas based on other sheets however navigating to the appropriate sheet allow the formulas to make sense.
 ## Results
-![](resources/Theater_Outcomes_vs_Launch.png)
+![](Crowdfunding Analysis/Resources/Theater_Outcomes_vs_Launch.png)
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 1)Theater outcomes are more successful in May then any other month suggesting that seasonality is a factor. 
