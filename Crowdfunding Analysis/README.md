@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Crowdfunding Projects to uncover trends 
+Crowdfunding Projects to uncover trends.
 ### Purpose
 Help Louise understand how campaigns progressed given the time and goal. 
 ## Analysis and Challenges
