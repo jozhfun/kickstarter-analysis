@@ -23,6 +23,7 @@ A challenge was applying formulas based on other sheets however navigating to th
 
   - Similar outcomes failed and less prone to success towards Q4 but picks up in Q1 and Q2. 
 
+![](Resources/Outcomes_vs_Goals.png)
 - What can you conclude about the Outcomes based on Goals?
 
   - There were no failed outcomes with goals 500 and greater. Many successful campaigns under 15k and few successful outcomes range in the 35k to 39999 goal. 
